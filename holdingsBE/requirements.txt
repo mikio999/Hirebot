@@ -1,0 +1,8 @@
+flask
+flask-cors
+gunicorn
+openai
+python-dotenv
+faiss-cpu
+PyMuPDF
+numpy
