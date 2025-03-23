@@ -5,10 +5,20 @@ holdingsBE/__pycache__/
 *.pyc
 *.pyo
 
-# Node.js
+# Node.js (holdingsBE)
 holdingsBE/node_modules/
 holdingsBE/dist/
 holdingsBE/.env
+
+# Node.js (holdingsFE)
+holdingsFE/node_modules/
+holdingsFE/dist/
+holdingsFE/.env
+holdingsFE/.firebase/
+holdingsFE/.firebaserc
+holdingsFE/firebase.json
+holdingsFE/firestore.*
+holdingsFE/.DS_Store
 
 # IDE/OS
 .DS_Store
