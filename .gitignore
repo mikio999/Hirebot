@@ -1,0 +1,16 @@
+# Python
+holdingsBE/.env
+holdingsBE/venv/
+holdingsBE/__pycache__/
+*.pyc
+*.pyo
+
+# Node.js
+holdingsBE/node_modules/
+holdingsBE/dist/
+holdingsBE/.env
+
+# IDE/OS
+.DS_Store
+.vscode/
+.idea/
