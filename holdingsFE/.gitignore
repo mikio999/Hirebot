@@ -1,0 +1,34 @@
+# 공통 환경 변수
+.env
+
+# Node.js (Frontend)
+holdingsFE/node_modules/
+holdingsFE/dist/
+holdingsFE/build/
+holdingsFE/.cache/
+holdingsFE/.firebase/
+holdingsFE/npm-debug.log*
+holdingsFE/yarn-debug.log*
+holdingsFE/yarn-error.log*
+holdingsFE/pnpm-debug.log*
+holdingsFE/package-lock.json
+
+# Python (Backend)
+holdingsBE/venv/
+holdingsBE/__pycache__/
+holdingsBE/*.pyc
+holdingsBE/*.pyo
+holdingsBE/.pytest_cache/
+holdingsBE/*.log
+holdingsBE/ipynb_checkpoints/
+holdingsBE/chatbot/vector_db.index
+holdingsBE/chatbot/knowledge_base.pkl
+holdingsBE/config.jsonq
+
+
+# IDE 및 OS 관련 파일
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
